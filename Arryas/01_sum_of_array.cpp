@@ -1,3 +1,5 @@
+// Platfrom : GeeksforGeeks
+// Difficulty : Basic-Easy
 class Solution {
   public:
     // Function to return sum of elements
