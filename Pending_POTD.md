@@ -1,4 +1,4 @@
-**LeetCode 3699: Number of ZigZag**
+**LeetCode 3699: Number of ZigZag** ------------------- **Pedning 2nd POTD** ZigZag II
 Arrays I
 **A comprehensive conceptual and technical tutorial outlining the optimal dynamic programming
 approach with prefix sum optimizations to solve the ZigZag array counting problem efficiently**
