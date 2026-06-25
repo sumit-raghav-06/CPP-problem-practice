@@ -1,6 +1,6 @@
 ## CPP-problem-practice c++
 
-This repository contains my ongoing practice of Data Structures and Algorithms using C++.
+**This repository contains my ongoing practice of Data Structures and Algorithms using C++.**
 
 ---
 
